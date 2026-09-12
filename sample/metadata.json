@@ -1,0 +1,12 @@
+{
+  "mission": "NTRO SIH26158 Automated Flight Baseline",
+  "sensor": "CMOS 1-inch 20MP (Simulated 4K/60)",
+  "focalLengthMm": 24.0,
+  "shutterSpeed": "1/1000s",
+  "iso": 100,
+  "crs": "WGS 84 / UTM Zone 43N",
+  "gsdCmPerPx": 1.85,
+  "durationSec": 4,
+  "fps": 30,
+  "totalFrames": 120
+}
